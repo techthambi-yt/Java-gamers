@@ -1,5 +1,5 @@
 import java.util.*;
-public class FifoQueue{
+public class Day2_question5{
    public static void main(String[] args) {
     Queue<String> Opher = new LinkedList<>();
     Opher.add("1");

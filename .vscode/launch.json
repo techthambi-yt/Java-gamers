@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Day2_question5",
+            "request": "launch",
+            "mainClass": "Day2_question5",
+            "projectName": "Java-gamers_4feb666b"
+        },
+        {}
+    ]
+}
